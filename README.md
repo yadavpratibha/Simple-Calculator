@@ -29,4 +29,10 @@ A responsive and minimalistic calculator built using **HTML**, **CSS**, and **Ja
 * Manipulating DOM to dynamically update and display results on the webpage without requiring a full page reload.
 * Implement basic arithmetic operations (addition, subtraction, multiplication, division) in the calculator using JS.
 
-git clone https://github.com/yadavpratibha/simple-calculator.git
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yadavpratibha/simple-calculator.git
